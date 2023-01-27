@@ -3,13 +3,13 @@ Code snippets, roadmaps, module references and katas towards leaning Go.
 
 ## References
 1. [Go Docs](https://go.dev/)
-2. [https://play.golang.com/](Online Go compiler)
+2. [Online Go compiler](https://play.golang.com/)
 
 ## Roadmap
-[https://roadmap.sh/golang](Go Developer roadmap)
+[Go Developer roadmap](https://roadmap.sh/golang)
 
 ## Katas
-[https://github.com/echocat/golang-kata-1](Go katas)
+[Go katas](https://github.com/echocat/golang-kata-1)
 
 ## Online Go playground
-[https://play.golang.com/](Go playground)
+[Go playground](https://play.golang.com/)
