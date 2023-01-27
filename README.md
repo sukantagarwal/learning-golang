@@ -2,7 +2,7 @@
 Code snippets, roadmaps, module references and katas towards leaning Go.
 
 ## References
-1. (https://go.dev/)[Go Docs]
+1. [https://go.dev/]Go Docs
 2. [https://play.golang.com/](Online Go compiler)
 
 ## Roadmap
